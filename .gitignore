@@ -1,0 +1,16 @@
+# API keys / environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Input / output data
+baseline.csv
+candidate.csv
+candidate_judged.csv
